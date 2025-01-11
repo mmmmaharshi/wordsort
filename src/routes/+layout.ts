@@ -12,7 +12,7 @@ export const load = (async ({ url }) => {
 		author: 'Manohar Maharshi',
 		robots: 'index, follow',
 		twitter: {
-			card_type: 'summary',
+			cardType: 'summary',
 			site: '@mmmmaharshi',
 			creator: '@mmmmaharshi',
 			title: 'Word Sort - Alphabetical Text Sorter',
@@ -27,7 +27,7 @@ export const load = (async ({ url }) => {
 			type: 'website',
 			siteName: 'Word Sort'
 		}
-	}) satisfies MetaTagsProps;
+	}) as MetaTagsProps;
 
 	return {
 		baseMetaTags
