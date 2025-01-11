@@ -86,15 +86,13 @@
 					rel="noopener noreferrer"
 					href="https://github.com/mmmmaharshi/wordsort"
 					class="text-primary underline">Github</a
-				>
-			</p>
-			<p>
-				I got this idea from a <a
+				>, inspired from
+				<a
 					class="text-primary underline"
 					target="_blank"
 					rel="noopener noreferrer"
 					href="https://x.com/WendigoWear/status/1877794346625286175">tweet</a
-				>
+				>.
 			</p>
 			<p>
 				Follow Me : <a
@@ -104,7 +102,7 @@
 					class="text-primary underline">X(@mmmmaharshi)</a
 				>
 			</p>
-			<p>It's a fun app, don't sue me! 😄</p>
+			<p>It's a fun idea, don't sue me! 😄</p>
 		</section>
 	</section>
 </main>
