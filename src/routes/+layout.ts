@@ -8,7 +8,7 @@ export const load = (async ({ url }) => {
 		url: new URL(url.pathname, url.origin).href,
 		canonical: new URL(url.pathname, url.origin).href,
 		description:
-			'Sort the letters of each word in your text with Word Sort! Paste your text, and let us do the magic.',
+			'Sort the letters of each word in your text! Paste your text, and let us do the magic.',
 		author: 'Manohar Maharshi',
 		robots: 'index, follow',
 		twitter: {
@@ -17,12 +17,12 @@ export const load = (async ({ url }) => {
 			creator: '@mmmmaharshi',
 			title: 'Word Sort - Alphabetical Text Sorter',
 			description:
-				'Sort the letters of each word in your text with Word Sort! Paste your text, and let us do the magic.'
+				'Sort the letters of each word in your text! Paste your text, and let us do the magic.'
 		},
 		openGraph: {
 			title: 'Word Sort - Alphabetical Text Sorter',
 			description:
-				'Sort the letters of each word in your text with Word Sort! Paste your text, and let us do the magic.',
+				'Sort the letters of each word in your text! Paste your text, and let us do the magic.',
 			url: 'https://wordsort.vercel.app/',
 			type: 'website',
 			siteName: 'Word Sort'
