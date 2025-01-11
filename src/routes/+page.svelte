@@ -38,7 +38,13 @@
 	<section class="mt-10 flex w-full flex-col items-center justify-center gap-2 text-center">
 		<h3 class="text-primary text-5xl font-black">Word Sort</h3>
 		<p class="italic">Because your words clearly need some help getting in order.</p>
-		<a href="/" aria-label="github_source_link" class="github mt-2"></a>
+		<a
+			href="https://github.com/mmmmaharshi/wordsort"
+			target="_blank"
+			rel="noopener noreferrer"
+			aria-label="github_source_link"
+			class="github mt-2"
+		></a>
 	</section>
 	<section class="mt-4 w-full">
 		<form
