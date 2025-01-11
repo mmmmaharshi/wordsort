@@ -23,7 +23,7 @@ export const load = (async ({ url }) => {
 			title: 'Word Sort - Alphabetical Text Sorter',
 			description:
 				'Sort the letters of each word in your text! Paste your text, and let us do the magic.',
-			url: 'https://wordsort.vercel.app/',
+			url: new URL(url.pathname, url.origin).href,
 			type: 'website',
 			siteName: 'Word Sort'
 		}
